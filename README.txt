@@ -1,6 +1,4 @@
-RESOURCES:
-
-Check tutorial on https://codelabs.developers.google.com/codelabs/build-your-first-android-app/#0
+This is comes from the codelabs tutorial on https://codelabs.developers.google.com/codelabs/build-your-first-android-app/#0
 
 Other tutorials:
 https://developer.android.com/courses/fundamentals-training/toc-v2
